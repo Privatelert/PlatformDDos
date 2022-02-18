@@ -8,18 +8,30 @@ This is a Leeon123 project, I just modified it for convenience, I will add more 
 There is support:
 
 My change:
-✓ Russian language
+✓Russian language
+
 ------------------------
-®It has already been:®
+Was created from the beginning @Leeon123
+
+------------------------
  ✓Using Python3
+
  ✓Added more human-like options
+
  ✓Http Get/Head/Post/Slow Flood
+
  ✓Random Http Header/Data
+
  ✓Socks4/5 Proxies Downloader
+
  ✓Socks4/5 Proxies Checker
+
  ✓Customize Cookies
+
  ✓Customize Post Data
+
  ✓Support HTTPS
+
  ✓Support Socks4/5
 
 
